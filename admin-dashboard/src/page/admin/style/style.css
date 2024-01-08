@@ -1,0 +1,14 @@
+.adminhead {
+    display: flex;
+    justify-content: space-between;
+    /* margin: 10px; */
+    padding-bottom: 5px;
+    border-bottom: 1px solid grey;
+    /* width: 100%; */
+}
+
+.btnsearch {
+    background-color: rgb(42, 137, 134);
+    border-radius: 20%;
+    width: 100px;
+}
